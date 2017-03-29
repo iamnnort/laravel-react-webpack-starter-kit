@@ -1,0 +1,13 @@
+# IDE folders
+/.idea
+
+# library folders
+/backend/vendor
+/frontend/node_modules
+
+# build folders
+/frontend/public
+/backend/public
+
+# enviroment
+/backend/.env
